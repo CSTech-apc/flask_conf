@@ -1,0 +1,6 @@
+[default]
+SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:guto270063@localhost/postgres'
+TITLE = 'Pydaria'
+SECRET_KEY = 'augustopereiracosta'
+SQLALCHEMY_TRACK_MODIFICATIONS=true
+DEBUG=true
